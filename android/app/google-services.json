@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "717910200022",
+    "project_id": "arshath-2cb9a",
+    "storage_bucket": "arshath-2cb9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717910200022:android:23ffaa1f3770e3bb994377",
+        "android_client_info": {
+          "package_name": "com.example.arshath"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbTTx1L7WR6QgLLfAD7cupwc-ZG79wStY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
